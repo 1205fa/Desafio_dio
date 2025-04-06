@@ -1,0 +1,5 @@
+dio/desafio_dio/model/Usuario.class
+dio/desafio_dio/handler/GlobalExceptionHandler.class
+dio/desafio_dio/dto/UsuarioDTO.class
+dio/desafio_dio/repository/UsuarioRepository.class
+dio/Desafio_dio/DesafioDioApplication.class

@@ -1,1 +1,6 @@
-/home/fabricio/test-maven/test-app/src/main/java/com/example/App.java
+/home/fabricio/Documentos/Desafio_dio/src/main/java/dio/desafio_dio/DesafioDioApplication.java
+/home/fabricio/Documentos/Desafio_dio/src/main/java/dio/desafio_dio/dto/UsuarioDTO.java
+/home/fabricio/Documentos/Desafio_dio/src/main/java/dio/desafio_dio/handler/GlobalExceptionHandler.java
+/home/fabricio/Documentos/Desafio_dio/src/main/java/dio/desafio_dio/model/Usuario.java
+/home/fabricio/Documentos/Desafio_dio/src/main/java/dio/desafio_dio/repository/UsuarioRepository.java
+/home/fabricio/Documentos/Desafio_dio/src/main/java/dio/desafio_dio/service/UsuarioService.java
